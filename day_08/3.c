@@ -1,5 +1,7 @@
+// Q-3 Implement Linear queue using array.
+
 #include <stdio.h>
- 
+
 #define MAX 50
  
 void insert();

@@ -1,4 +1,6 @@
-#include <stdio.h>  
+// Q-1 Implement circular queue using array.
+
+#include <stdio.h>
   
 # define max 6  
 int queue[max];
